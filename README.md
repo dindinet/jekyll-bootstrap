@@ -7,7 +7,7 @@ The quickest and most hassle-free way to get your new Jekyll powered website up 
 
 ## Development
 
-Development is active! 
+Development is active! innit
 
 ## License
 
